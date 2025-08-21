@@ -106,7 +106,7 @@ cd contacts-api
 
 ## 📖 Documentación Completa
 
-Ver `API_DOCUMENTATION.md` para documentación detallada de todos los endpoints.
+Consulta la [documentación completa de la API](API_DOCUMENTATION.md) para ver todos los endpoints y ejemplos de uso.
 
 ## 🧪 Testing
 
