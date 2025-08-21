@@ -131,3 +131,9 @@ php artisan test
 ---
 
 **Proyecto prueba usado como material de formación para el programa de ADSO**
+
+---
+
+¿Quieres replicar este proyecto desde cero?
+
+Consulta la [Guía paso a paso para la creación de la API](GUIA.md) donde encontrarás todas las instrucciones detalladas para construir la API desde el inicio.

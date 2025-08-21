@@ -471,7 +471,7 @@ php artisan key:generate</div>
 
                     <div class="text-center mt-3">
                         <a href="https://insomnia.rest/download" class="btn" target="_blank">🚀 Probar API</a>
-                        <a href="https://github.com" class="btn btn-secondary" target="_blank">📚 Ver en GitHub</a>
+                        <a href="https://github.com/HBE-Quantumisp/contacts-api.git" class="btn btn-secondary" target="_blank">📚 Ver en GitHub</a>
                     </div>
                 </div>
             </div>
