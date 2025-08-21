@@ -2,23 +2,23 @@
 
 ## 📝 Índice
 
-1. [Requisitos Previos](#requisitos-previos)
-2. [Instalación de Laravel](#instalación-de-laravel)
-3. [Configuración Inicial](#configuración-inicial)
-4. [Configuración de Base de Datos](#configuración-de-base-de-datos)
-5. [Instalación de Laravel Sanctum](#instalación-de-laravel-sanctum)
-6. [Creación de Migraciones](#creación-de-migraciones)
-7. [Creación de Modelos](#creación-de-modelos)
-8. [Creación de Form Requests](#creación-de-form-requests)
-9. [Creación de API Resources](#creación-de-api-resources)
-10. [Creación de Controladores](#creación-de-controladores)
-11. [Configuración de Rutas](#configuración-de-rutas)
-12. [Configuración de Middleware](#configuración-de-middleware)
-13. [Creación de Seeders](#creación-de-seeders)
-14. [Creación de Tests](#creación-de-tests)
-15. [Documentación de la API](#documentación-de-la-api)
-16. [Página de Bienvenida](#página-de-bienvenida)
-17. [Pruebas y Validación](#pruebas-y-validación)
+[Requisitos Previos](#requisitos-previos)
+
+1. [Instalación de Laravel](#instalación-de-laravel)
+2. [Configuración Inicial](#configuración-inicial)
+3. [Configuración de Base de Datos](#configuración-de-base-de-datos)
+4. [Instalación de Laravel Sanctum](#instalación-de-laravel-sanctum)
+5. [Creación de Migraciones](#creación-de-migraciones)
+6. [Creación de Modelos](#creación-de-modelos)
+7. [Creación de Form Requests](#creación-de-form-requests)
+8. [Creación de API Resources](#creación-de-api-resources)
+9. [Creación de Controladores](#creación-de-controladores)
+10. [Configuración de Rutas](#configuración-de-rutas)
+11. [Configuración de Middleware](#configuración-de-middleware)
+12. [Creación de Seeders](#creación-de-seeders)
+13. [Creación de Tests](#creación-de-tests)
+14. [Pruebas y Validación](#pruebas-y-validación)
+15. [Comandos de Finalización](#-15-comandos-de-finalización)
 
 ---
 
@@ -1754,7 +1754,6 @@ DB_PASSWORD=tu_contraseña_segura
 -   **Validación**: Prevención de duplicados, validación de formatos
 -   **Escalabilidad**: Paginación, estructura modular
 -   **Mantenibilidad**: Form Requests, API Resources, tests completos
--   **Documentación**: API bien documentada con ejemplos
 
 ### 🚀 Próximos pasos opcionales:
 
