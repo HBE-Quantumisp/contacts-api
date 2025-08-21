@@ -30,35 +30,76 @@ API REST desarrollada en Laravel para la gestión de contactos personales con au
 
 ## ⚡ Instalación Rápida
 
-1. **Instalar dependencias**
+1. **Clonar el repositorio**
+
+```bash
+git clone https://github.com/HBE-Quantumisp/contacts-api.git
+cd contacts-api
+```
+
+2. **Instalar dependencias**
 
     ```bash
     composer install
     ```
 
-2. **Configurar entorno**
+3. **Configurar entorno**
 
     ```bash
     cp .env.example .env
     php artisan key:generate
     ```
 
-3. **Configurar base de datos**
+4. **Configurar base de datos**
    Edita el archivo `.env` con tus credenciales de base de datos
 
-4. **Ejecutar migraciones**
+5. **Ejecutar migraciones**
 
     ```bash
     php artisan migrate
     ```
 
-5. **Cargar datos de prueba (opcional)**
+6. **Cargar datos de prueba (opcional)**
 
     ```bash
     php artisan db:seed
     ```
 
-6. **Iniciar servidor**
+7. **Iniciar servidor**
+
+    ```bash
+    php artisan serve
+    ```
+
+8. **Instalar dependencias**
+
+    ```bash
+    composer install
+    ```
+
+9. **Configurar entorno**
+
+    ```bash
+    cp .env.example .env
+    php artisan key:generate
+    ```
+
+10. **Configurar base de datos**
+    Edita el archivo `.env` con tus credenciales de base de datos
+
+11. **Ejecutar migraciones**
+
+    ```bash
+    php artisan migrate
+    ```
+
+12. **Cargar datos de prueba (opcional)**
+
+    ```bash
+    php artisan db:seed
+    ```
+
+13. **Iniciar servidor**
     ```bash
     php artisan serve
     ```
